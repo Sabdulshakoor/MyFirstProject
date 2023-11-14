@@ -18,7 +18,7 @@ public class Registration {
             String url="https://abc9262.sg-host.com/";
             System.setProperty(
                     "webdriver.chrome.driver",
-                    "C:\\workspace\\MyDemoProject\\chromedriver.exe");
+                    "C:\\workspace\\MyDemoProject\\chromedriver_119.exe");
             // Instantiate a ChromeDriver class.driver = new ChromeDriver();
             driver=new ChromeDriver();
             driver.get(url);
